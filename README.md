@@ -1,6 +1,6 @@
 # FUR AND FURBLE
 
-A FastAPI-based application for FUR and FURBLE application.
+A FastAPI-based application for FUR and FURBLE application. The application uses Gen AI to inpaint an image to match a new style
 
 ## Getting Started
 
@@ -15,8 +15,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/Sr-Raise/FandFstudio.git
-cd FandFstudio
+git clone https://github.com/rashidkisejjere0784/far-and-farble.git
+cd far-and-farble
 ```
 
 ### Installing Dependencies
