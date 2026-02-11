@@ -1,0 +1,23 @@
+[project]
+name = "fur-and-furble"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "alembic>=1.15.2",
+    "bcrypt>=4.3.0",
+    "brevo-python>=1.1.2",
+    "diffusers>=0.33.1",
+    "django>=5.2.1",
+    "fastapi-mail>=1.4.2",
+    "fastapi[standard]>=0.115.12",
+    "openai>=1.81.0",
+    "pillow>=11.2.1",
+    "pymysql>=1.1.1",
+    "python-jose>=3.4.0",
+    "pytz>=2025.2",
+    "stripe>=12.1.0",
+    "torch>=2.7.0",
+    "transformers>=4.52.2",
+]
